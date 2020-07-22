@@ -1,0 +1,7 @@
+Paper,Rick Van Der Vliet,2018,Private,e0170-18.2018 1014,Individual differences in motor noise and adaptation rate are optimally related,0,false,false,papers,http://dx.doi.org/10.1523/ENEURO.0170-18.2018,
+Book,Daniel Liang,2019,Public,1-292-22187-9,Introduction to Java programming and data structures,2,false,false,oop,unknown,unknown,unknown,
+Book,Robert Bartle,2000,Private,0-471-32148-6,Introduction to real analysis,8,false,false,realAnalysis,unknown,unknown,unknown,
+Book,Ethan Bloch,2011,Private,978-1-4419-7126-5,Proofs and fundamentals: a first course in abstract mathematics,3,false,false,bloch,unknown,unknown,unknown,
+Book,Liliana Blanco,2010,Private,978-958-719-576-7,Probabilidad,1,false,false,probabilidad,Probabilidad,unknown,unknown,
+Book,Erwin Kreyszig,1978,Private,0-471-50731-8,Introductory functional analysis with applications,7,false,false,functionalanalysis,unknown,unknown,unknown,
+Journal,Universidad Nacional de Colombia,2007,Public,0120-1751,Revista Colombiana de Estadistica,4,false,false,rev,Statistics,30,

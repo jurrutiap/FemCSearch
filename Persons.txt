@@ -1,0 +1,7 @@
+admin,nombre,correo,123,admin,image3,dependencia,123
+profesor,nombre,correo,contrasena,idprofe,image3,departamento,tipo,123
+estudiante,nombre,correo,contrasena,idest,image3,carrera,123
+admin,Diego,daportelac@unal.edu.co,0123456789,daportelac,image1,Statistics,0123456789
+estudiante,Diego,daportelac@unal.edu.co,123,estudiante,image1,Statistics,1226
+admin,Juan Pablo Urrutia,jurrutia@unal.edu.co,123,1193382462,image2,Computer Science,2158808978
+profesor,Juan Pablo Urrutia,jurrutia@unal.edu.co,123,profesor,image2,Matematicas,Ocasional,2158808978
